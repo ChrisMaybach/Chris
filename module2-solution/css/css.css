@@ -21,7 +21,8 @@ p {
 }
 #chicken
 {
-  margin-right: 10px;
+  margin-right: -11px;
+  margin-top: -11px;
   font-size: 15px;
   border: 1px solid black;
   position: relative;
@@ -33,7 +34,8 @@ p {
   padding: 5px 15px 5px 15px;
 }    
 #beef {
-  margin-right: 10px;
+  margin-right: -11px;
+  margin-top: -11px;
   font-size: 15px;
   border: 1px solid black;
   position: relative;
@@ -45,7 +47,8 @@ p {
   padding: 5px 25px 5px 25px;
 }
 #sushi{
-  margin-right: 10px;
+  margin-right: -11px;
+  margin-top: -11px;
   font-size: 15px;
   border: 1px solid black;
   position: relative;
