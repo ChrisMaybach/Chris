@@ -27,7 +27,6 @@ p {
   border: 1px solid black;
   position: relative;
   float: right;
-  margin-right: 0;
   background-color: pink;
   font-family: Lucida Console;
   color: white;
@@ -40,7 +39,6 @@ p {
   border: 1px solid black;
   position: relative;
   float: right;
-  margin-right: 0;
   background-color: red;
   font-family: Lucida Console;
   color: white;
@@ -53,7 +51,6 @@ p {
   border: 1px solid black;
   position: relative;
   float: right;
-  margin-right: 0;
   background-color: seagreen;
   font-family: Lucida Console;
   color: white;
